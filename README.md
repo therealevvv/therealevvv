@@ -8,7 +8,7 @@ I'll most likley update this github with stuff from my old github but for now it
 - **Anyhing else** Excluding basic languages like html or css, I'm probably not that good at it.
 
 Alright so I've ran out of ideas to add here. Might add some cool star things or counters on how much time I spend coding in a specific language, but thats a pain so I probably wont.
--
+
 ![Profile Viewer](https://komarev.com/ghpvc/?username=therealevvv&label=Profile%20views&color=0e75b6&style=for-the-badge)
 <!---
 ## 📸 Screenshots
